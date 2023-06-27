@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hi there 👋
+
+I'm an Applied Computer Science student at AGH UST (1st year). 
+
+![My Github Stats](https://github-readme-stats.vercel.app/api/?username=frun36&show_icons=true&theme=dark)  
+![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frun36&langs_count=8&theme=dark&layout=compact) 
 
 <!--
 **frun36/frun36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
