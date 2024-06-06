@@ -1,11 +1,11 @@
 <h1 align='center'>Hi there 👋</h1>
 
-<p align='center'>I'm an Applied Computer Science student at AGH UST (2nd year).</p>
+<p align='center'>I'm an Applied Computer Science student at AGH University of Kraków (2nd year).</p>
 
 <div align='center'>
   <img height='200' alt='GitHub Streak' src='https://github-readme-streak-stats.herokuapp.com?user=frun36&theme=dark&hide_border=true'> <br>
   <img height='200' alt='GitHub Stats' src='https://github-readme-stats.vercel.app/api/?username=frun36&show_icons=true&theme=dark&color=ff0000&hide_border=true'>
-  <img height='200' alt='Top Languages' src='https://github-readme-stats.vercel.app/api/top-langs/?username=frun36&langs_count=8&theme=dark&layout=compact&hide_border=true'>
+  <img height='200' alt='Top Languages' src='https://github-readme-stats.vercel.app/api/top-langs/?username=frun36&langs_count=8&theme=dark&layout=compact&hide_border=true&exclude_repo=control-server-doc'>
 </div>
 
 <!--
